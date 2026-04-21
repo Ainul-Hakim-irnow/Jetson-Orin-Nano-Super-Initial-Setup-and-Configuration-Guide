@@ -7,7 +7,7 @@
 ### 2. Boot jetpack 5.1.3 microSD card
 * Download the [Jetpack 5.1.3](https://drive.google.com/file/d/1eJxOd_xCs6vfatTCkspKZYgP3k-lr752/view?usp=sharing)
 * Unzip the jetpack
-* Reflash microSD card using jetpack 5.1.3 using BalenaEtcher
+* Reflash microSD card using jetpack 5.1.3 using [BalenaEtcher](https://etcher.balena.io/)
 * Run the jetpack until the bootloader/firmware update pop ups (Restart if there is no update pop ups)
 * Run the update
 * Reboot jetson
@@ -36,7 +36,7 @@
 ### 4.  Boot jetpack 6.1 microSD card
 * Download the [Jetpack 6.1](https://drive.google.com/file/d/1oV6lLSeT3fV0EQwfajTa5lkm-dYVGndh/view?usp=sharing)
 * Unzip the jetpack
-* Reflash microSD card using jetpack 6.1 using BalenaEtcher
+* Reflash microSD card using jetpack 6.1 using [BalenaEtcher](https://etcher.balena.io/)
 * Run the jetpack until the bootloader/firmware update pop ups (Restart if there is no update pop ups)
 * Run the update
 * Reboot jetson
