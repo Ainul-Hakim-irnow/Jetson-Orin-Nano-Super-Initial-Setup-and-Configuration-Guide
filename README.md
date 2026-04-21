@@ -42,3 +42,9 @@
 * Reboot jetson
 ### 5. Unlock MAXN Super
 ![alt text](maxn.png)
+* If there is no MAXN SUPER in power mode, run:
+  ```
+  sudo rm -rf /etc/nvpmodel.conf
+  ```
+* Reboot jetson
+* Enjoy the max performance
