@@ -26,6 +26,8 @@
   slot: 0,             status: normal
   slot: 1,             status: normal
   ```
+* If you satisfied with only jetpack 5, you can stop here and enjoy!
+
 * If the Current Version indicating 35.5.0, open terminal and run:
   ```
   sudo apt-get install nvidia-l4t-jetson-orin-nano-qspi-updater
