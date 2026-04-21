@@ -1,17 +1,17 @@
 # Jetson-Orin-Nano-Super-Initial-Setup-and-Configuration-Guide
 
 ## First Time Setup
-1. What to prepare
+### 1. What to prepare
 - [ ] Jetson Orin Nano
 - [ ] microSD card (Optional: 2 microSD card)
-2. Boot jetpack 5.1.3 microSD card
+### 2. Boot jetpack 5.1.3 microSD card
 * Download the Jetpack 5.1.3
 * Unzip the jetpack
 * Reflash microSD card using jetpack 5.1.3 using BalenaEtcher
 * Run the jetpack until the bootloader/firmware update pop ups (Restart if there is no update pop ups)
 * Run the update
 * Reboot jetson
-3. Firmware check
+### 3. Firmware check
 * Open terminal and run:
   ```
   sudo nvbootctrl dump-slots-info
@@ -33,7 +33,7 @@
 * After all the installation finishes, reboot the Jetson.
 * The Jetson will be stuck on black screen to update the firmware.
 * In a few of minutes, shut down the jetson by disconnect the power supply
-4.  Boot jetpack 6.1 microSD card
+### 4.  Boot jetpack 6.1 microSD card
 * Download the Jetpack 6.1
 * Unzip the jetpack
 * Reflash microSD card using jetpack 6.1 using BalenaEtcher
