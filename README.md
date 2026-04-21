@@ -41,4 +41,4 @@
 * Run the update
 * Reboot jetson
 ### 5. Unlock MAXN Super
-![alt text](https://keep.google.com/u/0/media/v2/1fja73OVKZ8I-ydKw_KsdhjLgp2j98cd9Y-45jLHQe9ZonrE-j-CJlC9wZygo1TI/1-e2cQWR1dVClhEdzalWnVef0newalP5LP3qekBUsyTBO6sYpPybTzf5dpMQoawM?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
+![alt text](maxn.png)
